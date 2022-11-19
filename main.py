@@ -64,7 +64,7 @@ def checkinside(l, x):
 
     Args:
         l (dict): Dict containing data
-        x (_type_): Value to be checked
+        x (Token Class): Value to be checked
 
     Returns:
         bool: True if x is found in l
